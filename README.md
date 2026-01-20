@@ -7,8 +7,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 ---
 
 ### 🔭 Current Projects
-- **Balanced AI Governance:** Developing a computational framework to balance AI Risk vs. Performance Quality. [**Explore the interactive model here**](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app).
-- **GPAI Expert Group:** Contributing to the development of the GPAI Code of Practice (EU).
+- **Balanced AI Governance:** Developing a computational framework to balance AI Risk vs. Quality. [**Explore the interactive model here**](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app).
 - **Operationalizing Ethics:** Helping organizations convert high-level RAI principles into measurable technical guidelines and verifiable controls.
 
 ### 🎓 Academic & Research
@@ -20,7 +19,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 ### 🛠️ Tech Stack & Tools
 - **Research & Modeling:** Python, Pandas, Plotly, Streamlit
 - **Frameworks:** NIST AI RMF, ISO/IEC 25010, ISO/IEC 42001
-- **Focus Areas:** Algorithmic Auditing, Socio-Technical Systems, AI Act Compliance
+- **Focus Areas:** Algorithmic Auditing, Socio-Technical Systems, EU AI Act Compliance
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-k-5412a66b/)
