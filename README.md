@@ -6,11 +6,10 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 
 **Current Projects**
 - **Balanced AI Governance:** Developing a computational framework to balance AI Risk vs. Quality. [Explore the interactive model here](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
-- **Operationalizing Ethics:** Helping organizations convert high-level RAI principles into measurable technical guidelines and controls.
+- **Responsible AI by Design:** Helping organizations convert high-level RAI principles into measurable technical guidelines and controls.
 
 **Academic & Research**
-- **Senior Lecturer & Researcher:** Author of several interdisciplinary programs, including the **"Law. Data. AI"** Master's program.
-- **Professional Education:** Author of the [AI Governance: Regulation and Compliance](https://rppaedu.pro/aigovernance) course.
+- **Academic Leadership:** Designed and led the academic program **'Law. Data. AI'** and the professional certification course [AI Governance: Regulation and Compliance](https://rppaedu.pro/aigovernance).
 
 ---
 
