@@ -1,6 +1,6 @@
 ### Interdisciplinary Researcher | AI Governance | Law & Technology
 
-I bridge the gap between AI engineering and legal frameworks. My work focuses on building socio-technical systems that make **Responsible AI (RAI)** a practical reality.
+I bridge the gap between AI engineering and legal frameworks. My work focuses on building socio-technical systems that make **Responsible AI** a practical reality.
 
 ---
 
