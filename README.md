@@ -15,7 +15,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 
 **Tech Stack & Frameworks**
 - **Modeling:** Python, Pandas, Plotly, Streamlit
-- **Governance:** NIST AI RMF, ISO/IEC 42001, EU AI Act Compliance
+- **Governance:** NIST AI RMF, ISO/IEC 42001, EU AI Act
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-k-5412a66b/)
