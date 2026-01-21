@@ -10,7 +10,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 - **AI Act Compliance Navigator:** a deterministic logic tree for classifying AI systems under EU AI Act. [Access the tool here](https://ai-act-compliance-navigator-g7js7fwafmpct3dwk4qtjv.streamlit.app/).
 
 **Academic & Research**
-- Designed and led the academic program 'Law. Data. AI' and the professional course 'AI Governance: regulation and compliance'.
+- Designed and led the academic program 'Law. Data. AI' and the professional course 'AI Governance: regulation and compliance of AI systems'.
 
 ---
 
