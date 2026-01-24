@@ -8,7 +8,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 ### 🔭 Current Projects
 - **Balanced AI Governance:** a socio-technical model to balance AI Risk vs. Quality. [Explore the interactive model](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app).
 - **AI Act Compliance Navigator:** logic tree for AI system classification (Regulation 2024/1689). [Access tool](https://ai-act-compliance-navigator-g7js7fwafmpct3dwk4qtjv.streamlit.app/).
-- **AI Risk Calculator:** Risk-scoring engine based on EDPB 2025 guidelines for DPOs and Researchers. [Run calculator](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/).
+- **AI Risk Calculator:** Risk-scoring engine based on EDPB guidelines for DPOs and Researchers. [Run calculator](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/).
 
 
 **Academic & Research**
