@@ -12,10 +12,10 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
     - **AI Risk Calculator:** Risk-scoring engine based on EDPB guidelines for DPOs and Researchers. [Run calculator](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/).
     - **Risk-Quality Model** a socio-technical model to balance AI Risk vs. Quality. [Explore the interactive model](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app).
   
-2. **AI Safety Evals:** Behavioural evaluations of LLMs using Inspect AI framework:
+2. **AI Safety Evals:** behavioural evaluations of LLMs using Inspect AI framework:
     - [LazyMind Eval →](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app →](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/)
 
-3. **Embedded-NeuroEthics:** An open-source framework translating high-level NeuroRights into quality metrics. [Explore the Toolkit](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
+3. **Embedded-NeuroEthics:** an open-source framework translating high-level NeuroRights into quality metrics. [Explore the Toolkit](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
 
 
 **Academic & Research**
