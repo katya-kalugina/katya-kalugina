@@ -13,7 +13,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
     - **Risk-Quality Model:** a socio-technical model to balance AI Risk vs. Quality. [Explore the interactive model](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app) | [GitHub](https://github.com/katya-kalugina/Risk-Quality-Model.v2)
   
 2. **AI Safety Evals:** behavioural evaluations of frontier LLMs — identifying failure modes relevant to AI safety and quality:
-    - [LazyMind Eval →](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app →](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/)
+    - [LazyMind Eval](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/)
     - Impossible Governance Eval — coming soon.
 
 3. **Embedded-NeuroEthics:** an open-source framework translating high-level NeuroRights into quality metrics. [Explore the Toolkit](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
