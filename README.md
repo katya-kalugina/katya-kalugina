@@ -14,7 +14,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
     - **Multi-Agent Risk Mapper:** an interactive tool for mapping risks in multi-agent AI systems deployed in healthcare. [GitHub](https://github.com/katya-kalugina/Multi-Agent-Risk-Mapper)
   
 2. **AI Safety Evals:** behavioural evaluations of frontier LLMs — identifying failure modes relevant to AI safety and quality:
-    - [LazyMind Eval](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/)
+    - [LazyMind Eval](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/) - behavioural eval that measures cognitive laziness in LLMs.
     - [Impossible Governance Eval](https://github.com/katya-kalugina/Impossible-Governance-Eval-) — behavioural eval testing false completion claims on impossible AI governance tasks.
 
 3. **Embedded-NeuroEthics:** an open-source framework translating high-level NeuroRights into quality metrics. [GitHub](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
