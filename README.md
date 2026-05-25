@@ -17,7 +17,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
     - [LazyMind Eval](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/)
     - [Impossible Governance Eval](https://github.com/katya-kalugina/impossible-governance-eval) — behavioural eval testing false completion claims on impossible AI governance tasks.
 
-3. **Embedded-NeuroEthics:** an open-source framework translating high-level NeuroRights into quality metrics. [Explore the Toolkit](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
+3. **Embedded-NeuroEthics:** an open-source framework translating high-level NeuroRights into quality metrics. [GitHub](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
 
 
 **Academic & Research**
