@@ -6,7 +6,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 ---
 
 ### 🔭 Current Projects
-1. **AI Governance Toolkit (https://github.com/katya-kalugina/AI-Governance-Toolkit):** A comprehensive open-source collection of practical tools and methodologies designed to operationalize Responsible AI governance:
+1. **AI Governance Toolkit:** A comprehensive open-source collection of practical tools and methodologies designed to operationalize Responsible AI governance | [GitHub] (https://github.com/katya-kalugina/AI-Governance-Toolkit):
     - **AI System Classifier:** logic tree for AI system classification under the EU AI Act. [Access tool](https://ai-system-classifier-ywunrhw4gfav2mmzxx5jry.streamlit.app/) | [GitHub](https://github.com/katya-kalugina/AI-System-Classifier)
     - **AI Role Navigator:** Interactive assessor for determining legal operator roles and obligations. [Run Navigator](https://ai-role-navigator-zjcqute523oxsv6hicsnrj.streamlit.app/) | [GitHub](https://github.com/katya-kalugina/AI-Role-Navigator)
     - **AI Risk Calculator:** Risk-scoring engine based on EDPB guidelines for DPOs and Researchers. [Run calculator](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/) | [GitHub](https://github.com/katya-kalugina/AI-Risk-Assessment-Calculator)
