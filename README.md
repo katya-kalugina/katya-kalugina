@@ -21,7 +21,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 
 
 **Academic & Research**
-- Designed and led the academic program 'Law. Data. AI' and the professional course 'AI Governance: regulation and compliance'.
+- Designed and lead the academic program 'Law. Data. AI' and the professional course 'AI Governance: regulation and compliance'.
 
 ---
 
