@@ -16,6 +16,7 @@ I bridge the gap between AI engineering and legal frameworks. My work focuses on
 2. **AI Safety Evals:** behavioural evaluations of frontier LLMs — identifying failure modes relevant to AI safety and quality:
     - [LazyMind Eval](https://github.com/katya-kalugina/inspect-eval-practice/blob/main/README.md) | [Try the app](https://inspect-eval-practice-2uo2b2xqjey9jmqrxew8au.streamlit.app/) - behavioural eval that measures cognitive laziness in LLMs.
     - [Impossible Governance Eval](https://github.com/katya-kalugina/Impossible-Governance-Eval-) — behavioural eval testing false completion claims on impossible AI governance tasks.
+    - [Ma Eval](https://github.com/katya-kalugina/ma-eval) — behavioural eval testing LLM speculation and epistemic abstention under incomplete context.
 
 3. **Embedded-NeuroEthics:** an open-source framework translating high-level NeuroRights into quality metrics. [GitHub](https://github.com/katya-kalugina/Embedded-NeuroEthics-Toolkit).
 
